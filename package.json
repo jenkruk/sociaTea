@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/jenkruk/sociaTea#readme",
   "dependencies": {
+    "graphql": "^15.5.0",
     "if-env": "^1.0.4"
   },
   "devDependencies": {
